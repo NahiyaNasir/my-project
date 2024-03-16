@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "The Adventure Begins",
+      "cover": "https://i.ibb.co/S6WF493/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/YcFrDLD/safar-safarov-Jq-C-VQQTl-Po-unsplash.jpg",
+      "posted_date": "2024-03-15",
+      "hashtags": ["fiction", "adventure", "bestseller"],
+      "reading_time_minutes": 120
+    },
+    {
+      "id": 2,
+      "title": "Mystery at Midnight",
+      "cover": "https://i.ibb.co/5MBX7w3/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/vQhZ83F/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+      "posted_date": "2024-03-14",
+      "hashtags": ["mystery", "crime", "thriller"],
+      "reading_time_minutes": 180
+    },
+    {
+      "id": 3,
+      "title": "Into the Unknown",
+      "cover": "https://ibb.co/y5d6Q1g",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/9H9G4yC/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+      "posted_date": "2024-03-13",
+      "hashtags": ["science fiction", "space", "aliens"],
+      "reading_time_minutes": 240
+    }
+  ]
+  
